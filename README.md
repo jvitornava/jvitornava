@@ -12,11 +12,11 @@ Analista SRE | Infraestrutura, Observabilidade e DevOps
 
 Atuo como Analista SRE na BW Soluções, cuidando do monitoramento e da observabilidade de infraestrutura para diferentes clientes. Trabalho principalmente com **Datadog**: configuração e padronização de monitores, automação de tarefas, construção de dashboards e organização dos processos de observabilidade da equipe. Gosto de identificar um problema antes que ele vire incidente, e sigo evoluindo em confiabilidade, infraestrutura e automação, com interesse crescente em segurança da informação.
 
-### 💻 De onde eu vim
+### 🧭 De onde eu vim
 
 Antes de migrar para SRE, atuei como estagiário de desenvolvimento na TIVIT por 8 meses, trabalhando com sistemas corporativos internos em C# e Angular, usando SQL no dia a dia e dando suporte técnico N1 e N2. Foi ali que tive contato real com ambiente de produção e entendi na prática como uma decisão técnica vira impacto de negócio.
 
-### 🎓 Um pouco mais sobre mim
+### 💻 Um pouco sobre mim
 
 Meu primeiro contato com tecnologia veio ainda antes da pandemia, no técnico integrado em Tecnologia da Informação pela FECAP. Hoje curso Sistemas de Informação na FIAP à noite, conciliando aula em quatro dias da semana com a rotina de trabalho em tempo integral. Fora do trabalho, curto futebol ⚽, viajar e conhecer lugares, culturas e pessoas diferentes.
 
