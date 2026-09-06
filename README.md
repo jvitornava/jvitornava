@@ -16,7 +16,7 @@ Atuo como Analista SRE na BW Soluções, cuidando do monitoramento e da observab
 
 Antes de migrar para SRE, atuei como estagiário de desenvolvimento na TIVIT por 8 meses, trabalhando com sistemas corporativos internos em C# e Angular, usando SQL no dia a dia e dando suporte técnico N1 e N2. Foi ali que tive contato real com ambiente de produção e entendi na prática como uma decisão técnica vira impacto de negócio.
 
-Meu primeiro contato com tecnologia veio ainda antes da pandemia, no técnico integrado em Tecnologia da Informação pela FECAP. Hoje curso Sistemas de Informação na FIAP à noite, conciliando aula em quatro dias da semana com a rotina de trabalho em tempo integral. Fora do trabalho, curto futebol ⚽, viajar e conhecer lugares, culturas e pessoas diferentes.
+Meu primeiro contato com tecnologia veio ainda antes da pandemia, no técnico integrado em Tecnologia da Informação pela FECAP. Hoje curso Sistemas de Informação na FIAP à noite, conciliando aula nos dias da semana com a rotina de trabalho em tempo integral.
 
 ### 🧰 Stack
 
