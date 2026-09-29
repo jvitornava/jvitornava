@@ -38,12 +38,4 @@ Meu primeiro contato com tecnologia foi no técnico integrado em Informática na
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Também já trabalhei com C#, Angular, SQL, Node.js e Zabbix.
-
-### 🏃 Fora do código
-
-Corro no Ibirapuera e tenho como meta um Ironman 70.3 até 2030.
-
----
-
 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaovitornava)
