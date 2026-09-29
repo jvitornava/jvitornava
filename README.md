@@ -4,8 +4,6 @@
 
 Analista SRE | Observabilidade, Infraestrutura e Automação
 
-*Meu trabalho é fazer o problema aparecer antes de virar incidente.*
-
 </div>
 
 ---
