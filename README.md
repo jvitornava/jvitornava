@@ -15,12 +15,6 @@ Analista SRE | Observabilidade, Infraestrutura e Automação
 - **Automação em Python** para tirar trabalho repetitivo da rotina da equipe, sempre com dry-run por padrão: o script mostra o que vai mudar e só aplica quando eu mando
 - **Primeiro atendimento** de alertas e incidentes, com escalonamento quando precisa
 
-### 📚 Estudando agora
-
-- Trilha de SRE: Linux, redes, CI/CD e observabilidade, com Kubernetes, IaC (Terraform e Ansible) e tracing a seguir
-- Lab próprio de Datadog APM montado do zero em Ubuntu Server: instrumentação, correlação entre logs e traces e troubleshooting
-- Aprendendo a ler a documentação oficial em vez de depender de tutorial pronto
-
 ### 💻 Um pouco sobre mim
 
 Antes de migrar para SRE, fui estagiário de desenvolvimento na TIVIT por 8 meses, com sistemas corporativos internos em C# e Angular, SQL no dia a dia e suporte técnico N1 e N2. Foi ali que tive contato real com produção e entendi na prática como uma decisão técnica vira impacto de negócio.
